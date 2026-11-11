@@ -1,6 +1,6 @@
 # GameVault v1 · PR1 · MP0486 Accés a dades
 
-Prova pràctica del RA1. Nom i cognoms: **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+Prova pràctica del RA1. Nom i cognoms: **Ronnye Castro Dávila **
 
 El projecte ja compila i té tota l'estructura feta. Hi falten trossos de codi marcats amb
 `TODO PR1-01` … `TODO PR1-13`. Cada TODO explica què has de fer i et diu de quin exemple de classe surt.
